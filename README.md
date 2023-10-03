@@ -158,3 +158,5 @@
         - date: DATETIME
     - Связи:
         - многие-к-одному с user
+
+# diagram - https://drawsql.app/teams/demetron-oficial/diagrams/diagramma-lab1
